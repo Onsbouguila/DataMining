@@ -1,0 +1,12 @@
+CPython == 3.7.4
+IPython ==  7.8.0
+
+wget == 3.2
+pandas == 0.25.1
+numpy == 1.16.5
+geopy == 2.0.0
+altair == 4.1.0
+vega_datasets == 0.8.0
+watermark == 2.0.2
+cv2 == 3.4.10
+
